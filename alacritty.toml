@@ -21,7 +21,8 @@ working_directory = "//wsl.localhost/rhel8wsl"
 	family = "Iosevka Term SS04"
 	style = "Heavy Extended Italic"	
 
-# Terminal Colors (Tokyo Night) - https//github.com/zatchheems/tokyo-night-alacritty-theme
+# Terminal Colors (Alacritty - Nord) - https://github.com/alacritty/alacritty-theme/blob/master/themes/nord.toml
+# Source Nord Theme - https://github.com/nordtheme/nord
 	# Default colors
 	[colors.primary]
 	background = "#2E3440"
